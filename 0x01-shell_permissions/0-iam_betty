@@ -1,2 +1,2 @@
- Script:   #!/bin/bash
-    whoami
+#!/bin/bash
+ su betty
